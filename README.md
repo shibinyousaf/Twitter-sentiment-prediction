@@ -4,7 +4,7 @@ This project performs sentiment analysis on tweets using **Random Forest** to cl
 
 ## 🛠️ Technologies Used
 - **Python**  
-- **Libraries**: Pandas, NumPy, NLTK, Scikit-learn, Matplotlib  
+- **Libraries**: Pandas, NumPy, NLTK, Scikit-learn, Matplotlib,Seaborn, 
 - **Model**: Random Forest Classifier
 
 ## 📈 Results
