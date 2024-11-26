@@ -1,2 +1,17 @@
-# Twitter-sentiment-prediction
-Twitter Sentiment Analysis This project leverages Python and machine learning to analyze tweets and classify their sentiment as positive, negative, or neutral. It includes data preprocessing, sentiment modeling, and visualizing trends for actionable insights. Ideal for social media monitoring and decision-making.
+# Twitter Sentiment Analysis
+
+This project performs sentiment analysis on tweets using **Random Forest** to classify them as **positive**, **negative**, or **neutral**. Achieved **90% accuracy** in sentiment classification.
+
+## 🛠️ Technologies Used
+- **Python**  
+- **Libraries**: Pandas, NumPy, NLTK, Scikit-learn, Matplotlib  
+- **Model**: Random Forest Classifier
+
+## 📈 Results
+- **Accuracy**: 90%  
+- **Visualizations**: Sentiment distribution and trends.
+
+## 📥 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/twitter-sentiment-analysis.git
